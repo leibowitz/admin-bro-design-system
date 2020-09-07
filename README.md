@@ -4,8 +4,8 @@ This package consist of all DesignSystem components from [AdminBro](adminbro.com
 
 It was created with the help of 2 amazing packages:
 
-- [styled-components](styled-components.com) which is a peerDependency
-- [styled-system](styled-stystem.com)
+- [styled-components](https://styled-components.com) which is a peerDependency
+- [styled-system](https://styled-stystem.com)
 
 make sure to check them out in order to use full potential of this design system
 
